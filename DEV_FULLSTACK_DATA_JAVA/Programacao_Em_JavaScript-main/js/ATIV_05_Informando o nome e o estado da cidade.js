@@ -1,4 +1,4 @@
-// Define a variável de string com o nome da cidade
+// Definição de uma variável de string com o nome da cidade
 var nomeCidade = "São Paulo";
 var estado = "São Paulo"; // ou o estado real da cidade
 

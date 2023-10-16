@@ -1,7 +1,7 @@
-// Solicita ao usuário que insira a idade
+// Solicitação ao usuário que insira a idade
 var idade = parseInt(prompt("Digite a sua idade:"));
 
-// Verifica se a idade é maior ou igual a 18 (idade de maioridade no Brasil)
+// Verificação se a idade é maior ou igual a 18 (idade de maioridade no Brasil)
 if (idade >= 18) {
     console.log("Você é maior de idade.");
 } else {
