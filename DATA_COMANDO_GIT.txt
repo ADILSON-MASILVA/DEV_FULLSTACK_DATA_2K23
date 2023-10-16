@@ -9,7 +9,7 @@ git branch -M main
 git remote add origin https://github.com/ADILSON-MASILVA/DEV_FULLSTACK_DATA_2K23.git
 git push -u origem main
 
-…ou envie um repositório existente a partir da linha de comando
+…ou envie ou atualize uma modificação de um repositório existente a partir da linha de comando
 
 git init 
 git add .
