@@ -4,7 +4,7 @@ echo "# DEV_FULLSTACK_DATA_2K23" >> README.md
 
 git init 
 git add .
-git commit -m "primeiro commit" 
+git commit -m "Commit_16-10-23" 
 git branch -M main 
 git remote add origin https://github.com/ADILSON-MASILVA/DEV_FULLSTACK_DATA_2K23.git
 git push -u origem main
