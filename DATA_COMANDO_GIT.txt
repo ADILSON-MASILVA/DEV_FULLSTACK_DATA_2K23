@@ -11,6 +11,8 @@ git push -u origem main
 
 …ou envie um repositório existente a partir da linha de comando
 
-git remoto adicionar origem https://github.com/ADILSON-MASILVA/DEV_FULLSTACK_DATA_2K23.git
+git init 
+git add .
+git commit -m "Commit_16-10-23" 
 git branch -M main 
 git push -u origin main
