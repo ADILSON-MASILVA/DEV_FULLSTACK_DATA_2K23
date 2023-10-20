@@ -64,9 +64,9 @@ O projeto inclui vários exercícios que ajudarão a praticar as estruturas de d
 // Utilize uma estrutura de repetição while ou for para verificar se cada número entre 1 e o número informado é ímpar,
 // e exibir os números ímpares encontrados no console.
 
-```
-Infraestrutura para executar testes das atividades:
+## Infraestrutura para executar testes das atividades:
 
+```
 📂 Ativ02_
 │
 ├── 📄 index.html
@@ -74,8 +74,11 @@ Infraestrutura para executar testes das atividades:
 └── 📂 js
     └── 📄 script.js
 
+```
+## Codigo do HTML para executar os testes
 Para executar os testes sera necessario criar um codigo HTML para ser utilizado durante os testes:
 
+```
 html
 Copy code
 <!DOCTYPE html>
@@ -92,24 +95,23 @@ Copy code
 </body>
 </html>
 
-´´´
-## Contributing
+```
+## Contribução 
 
-Pull requests are welcome! If you see something you'd like to add, please do. For drastic changes, please open an issue first.
+Curso Full_Stack SENAC São Paulo
 
 ## Supporting the project
 
 You can support the maintainer of this project through the links below
 
-- [Support via GitHub Sponsors](https://github.com/sponsors/pedroslopez)
-- [Support via PayPal](https://www.paypal.me/psla/)
-- [Sign up for DigitalOcean](https://m.do.co/c/73f906a36ed4) and get $200 in credit when you sign up (Referral)
+- [Support via GitHub Sponsors](DEV_FULLSTACK_DATA_JAVAz)
 
-## Disclaimer
 
-This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates. The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+## Declaração
 
-## License
+Sem declaração de projeto!!
+
+## Licenças
 
 Copyright 2019 
 
