@@ -1,6 +1,6 @@
 # Projeto de Atividades 02 data 20-10-2023
 
-Bem-vindo as atividades! Este repositório contém códigos em JavaScript que permitem fazer cálculos e verificações com notas e outras informações dos alunos de uma escola.
+Bem-vindo as atividades! Este repositório contém códigos em JavaScript 
 
 ## Exercícios
 
@@ -82,7 +82,7 @@ Para executar os testes sera necessario criar um codigo HTML para ser utilizado 
 html
 Copy code
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
