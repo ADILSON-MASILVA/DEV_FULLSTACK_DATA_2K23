@@ -1,5 +1,5 @@
     /* LISTA DE ATIVIDADES 02 20-10-2023 */ 
-    
+
 /* Exercício 1: Escreva um programa em JavaScript que solicite dois números ao usuário e exiba o maior número no console. Utilize uma estrutura de decisão if para comparar os números e exibir o maior número no console. */
 
 let numero1 = prompt("Digite o primeiro número: ");
@@ -125,7 +125,7 @@ switch (operacao) {
 if (resultado !== undefined) {
   console.log("Resultado: " + resultado);
 }
-/* Exercício 10: Escreva um programa em JavaScript que solicite um número ao usuário e exiba todos os números ímpares entre 1 e o número informado. Utilize uma estrutura de repetição while ou for para verificar se cada número entre 1 e o número informado é ímpar, e exibir os números ímpares encontrados no console. */
+/* Exercício 10: Escreva um programa em JavaScript que solicite um número ao usuário e exiba todos os números ímpares entre 1 e o número informado. Utilize uma estrutura de repetição while ou for para verificar se cada número entre 1 e o número informado é ímpar, e exibir os números ímpares encontrados no console.. */
 
 javascript
 Copy code
