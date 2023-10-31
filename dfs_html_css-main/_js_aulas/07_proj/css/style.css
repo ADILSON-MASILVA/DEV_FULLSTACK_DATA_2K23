@@ -475,8 +475,8 @@ footer {
         display: flex;
         flex-direction: column;
         background: var(--bg-color);
-        box-shadow: 0 4px 4px rgnb(0 0 0 /10%);
-        transition: 0.2 ease;
+        box-shadow: 0 4px 4px rgb(0 0 0 /10%);
+        transition: 0.2s ease;
         text-align: center;
     }
 
@@ -504,5 +504,32 @@ footer {
 
     .scroll-down {
         display: none;
+    }
+    .home-img{
+        order: initial;
+    }
+    .about-container{
+        grid-template-columns: 1fr;
+    }
+    .about-img{
+        display: flex;
+        justify-content: center;
+    }
+    .skills-container{
+        grid-template-columns: 1fr;
+    }
+    .skills-img img{
+        padding-left: 0;
+    }
+    .skills-img{
+        padding-top: 2rem;
+        display: flex;
+        justify-content: center;
+    }
+    .contact-form form{
+        width: 300px;
+    }
+    .conatct-button{
+        margin-left: 25%;
     }
 }
